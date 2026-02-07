@@ -1,3 +1,3 @@
 - [ ] vscode
 - [ ] cursor
-- [ ] claude
+- [x] claude
